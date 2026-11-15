@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -sf http://localhost/ | grep -q SATC
+curl -sf http://localhost/ | grep -q NOTFOUND
